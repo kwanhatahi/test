@@ -1,0 +1,9 @@
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\bin\Debug\testgit.exe.config
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\obj\Debug\testgit.csprojResolveAssemblyReference.cache
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\obj\Debug\testgit.Form1.resources
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\obj\Debug\testgit.Properties.Resources.resources
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\obj\Debug\testgit.csproj.GenerateResource.Cache
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\bin\Debug\testgit.exe
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\bin\Debug\testgit.pdb
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\obj\Debug\testgit.exe
+c:\users\rd-10607758\documents\visual studio 2013\Projects\testgit\testgit\obj\Debug\testgit.pdb
